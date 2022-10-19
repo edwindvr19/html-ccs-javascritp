@@ -1,0 +1,16 @@
+/*comentarios*/
+/*top-right-bottom-left*/
+
+h1 {
+    color: crimson
+  }
+
+  p {
+    color: white;
+    background-color: crimson;
+    padding: 40px; /*caja del parrafo index ccs*/
+    border: 10px solid violet;
+    margin: 60px; /*margen*/
+    
+  }
+/**/

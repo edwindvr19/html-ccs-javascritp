@@ -1,0 +1,38 @@
+/*comentarios*/
+/*top-right-bottom-left*/
+/*arriba-derecha-abajo-izquierda*/
+
+h1 {
+  color: crimson
+}
+
+p {
+  color: white;
+  background-color: crimson;
+  padding: 15px;
+  /*caja del parrafo index ccs*/
+  border: 10px solid violet;
+  /* opcion 1
+    margin-top: 40px; 
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;*/
+
+  /*opcion2 top-right-bottom-left
+    margin: 40px 10px 20px 10px*/
+
+  /*opcion3 top-right-left-bottom
+    arriba-derecha-izquierda-abajo
+  margin: 40px 10px 20px*/
+
+  /*opcion4 top-bottom-right-left-
+    arriba-abajo-derecha-izquierda
+    margin: 40px 10px */
+  /*centrar*/
+  margin:auto 50px;
+
+  /*centrar texto*/
+  text-align:center;
+}
+
+/**/

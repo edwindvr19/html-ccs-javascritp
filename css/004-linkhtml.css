@@ -1,0 +1,24 @@
+
+
+/*cuando nuestra el link nuevo sin visitar*/
+h1{
+    color: #ec1a0b;
+}
+
+a:link {
+    color:#fb8500;
+    text-decoration: none;
+}/*se utiliza para seleccionar enlaces visitados*/
+a:visited{
+    color:#219ebc;
+    text-decoration: none;/*que no este subrayado el texto*/
+}
+/*cuando nos ponemos encima del link*/
+a:hover{
+    color:#8ecae6;
+    text-decoration: underline;/*que si lo subbraye el texto*/
+}
+a:active {/*cuando se da un click link*/
+    color: #023047;
+    text-decoration: underline;
+}
